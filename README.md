@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+I like Java and how the world works
+
+- I'm currently learning Javax.Swing for simple-local-private apps
+
+📫 If you want to reach me: [LinkedIn](https://www.linkedin.com/in/antonio-dalla-valle/) or my [email](mailto:antoniomdvalle@gmail.com?subject=Inquiry%20from%20GitHub)
 <!--
 **antoniomdvalle/antoniomdvalle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
