@@ -2,7 +2,7 @@
 
 I like Java and how the world works
 
-- I'm currently learning Javafor simple-local-private apps
+- I'm currently learning Java
 - btw, I like Python
 
 📫 If you want to reach me: [LinkedIn](https://www.linkedin.com/in/antonio-dalla-valle/) or my [email](mailto:antoniomdvalle@gmail.com?subject=Inquiry%20from%20GitHub)
