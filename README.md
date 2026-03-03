@@ -1,9 +1,7 @@
-## Hi there 👋
+## I'm Antonio 
 
-I like Java and how the world works
-
-- I'm currently learning Java
-- btw, I like Python
+- Currently learning backend with Java
+- And working on that with my personal finance manager
 
 📫 If you want to reach me: [LinkedIn](https://www.linkedin.com/in/antonio-dalla-valle/) or my [email](mailto:antoniomdvalle@gmail.com?subject=Inquiry%20from%20GitHub)
 <!--
