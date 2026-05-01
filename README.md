@@ -1,7 +1,8 @@
 ## I'm Antonio 
 
-- Currently learning backend with Java
-- And working on that with my personal finance manager
+- I'm currently learning backend with Java...
+- ...and C/C++ for game development
+- I'm working on my personal finance manager
 
 📫 If you want to reach me: [LinkedIn](https://www.linkedin.com/in/antonio-dalla-valle/) or my [email](mailto:antoniomdvalle@gmail.com?subject=Inquiry%20from%20GitHub)
 <!--
