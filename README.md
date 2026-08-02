@@ -1,12 +1,12 @@
 # Hi there, I'm Antonio 👋
 
-### 🚀 Fullstack Developer & Industrial Automation Enthusiast
+### 🚀 Fullstack developer & Automation enthusiast
 
 I'm a Fullstack Developer and Automation intern with a strong passion for solving real-world problems. I bridge the gap between software development and practical solutions  creating efficient applications for both everyday users and corporate environments.
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🧰 Tech Stack 
 
 **Languages & Backend:**
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -22,7 +22,7 @@ I'm a Fullstack Developer and Automation intern with a strong passion for solvin
 
 ---
 
-### 📌 Current Focus & Featured Projects
+### 📌 Current Projects
 
 - 🛠️ **Process Automation:** Building custom software solutions to automate electrical project flows and resource generation.
 - 🎓 **Financial GAmified App:** Developing an interactive, Duolingo-style web/mobile application for financial education.
