@@ -1,6 +1,4 @@
-# Hello, I'm Antonio
-
-### Backend Developer | Java & Spring Boot | Industrial Automation
+### Backend Developer | Industrial Automation
 
 I'm a software developer focused on **backend development with Java and Spring Boot**, with a background in **industrial automation and electromechanics**.
 
@@ -14,7 +12,7 @@ Currently, I'm completing my **Technical Program in Systems Development** while 
 
 * 🔹 **Backend Development** — Building REST APIs with Java, Spring Boot, JPA and relational databases.
 * 🔹 **Industrial Software** — Developing tools and solutions for electrical and automation workflows.
-* 🔹 **Financial Technology** — Building a gamified financial education platform.
+* 🔹 **Financial Technology** — Building a financial management platform.
 * 🔹 **Software + Hardware** — Exploring the intersection between software development, automation and electromechanical systems.
 
 ---
@@ -49,6 +47,18 @@ Currently, I'm completing my **Technical Program in Systems Development** while 
 
 ## 📌 Featured Projects
 
+### 💰 Finance Manager
+
+A financial management application focused on managing users, financial transactions and personal financial data.
+
+**Focus:** Java · Spring Boot · JPA · AJAX · REST APIs
+
+[View repository](https://github.com/antoniomdvalle/Cx-Finance)
+
+---
+
+> 🚧 This project is currently under development.
+
 ### 🛠️ PdParser
 
 A software tool for extracting component tags from electrical project diagrams, developed for an industrial environment.
@@ -59,15 +69,7 @@ A software tool for extracting component tags from electrical project diagrams, 
 
 ---
 
-### 💰 Finance Manager
 
-A financial management application currently under development, focused on managing users, financial transactions and personal financial data.
-
-**Focus:** Java · Spring Boot · JPA · AJAX · REST APIs
-
-> 🚧 This project is currently under development.
-
----
 
 
 ## 🎯 Current Focus
