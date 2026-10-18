@@ -1,4 +1,4 @@
-# Hi there, I'm Antonio 👋
+# Hello, I'm Antonio
 
 ### Backend Developer | Java & Spring Boot | Industrial Automation
 
@@ -53,7 +53,7 @@ Currently, I'm completing my **Technical Program in Systems Development** while 
 
 A software tool for extracting component tags from electrical project diagrams, developed for an industrial environment.
 
-**Focus:** Electrical Engineering · Automation · Software Development
+**Focus:**  Software Development · Automation · Electrical Engineering
 
 [View repository →](https://github.com/antoniomdvalle/PdParser)
 
@@ -63,7 +63,7 @@ A software tool for extracting component tags from electrical project diagrams, 
 
 A financial management application currently under development, focused on managing users, financial transactions and personal financial data.
 
-**Focus:** Java · Spring Boot · JPA · PostgreSQL · REST APIs
+**Focus:** Java · Spring Boot · JPA · AJAX · REST APIs
 
 > 🚧 This project is currently under development.
 
